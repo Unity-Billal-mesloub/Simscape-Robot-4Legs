@@ -1,5 +1,4 @@
 # **Running Robot Model in Simscape**
-Copyright 2012-2023 The MathWorks(TM), Inc.
 
 ![](Overview/html/sm_robot_run_4legs_mechExp_Anim.gif)
 
